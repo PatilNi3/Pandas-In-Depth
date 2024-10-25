@@ -2,6 +2,8 @@
 
 Welcome to the **Pandas** repository! Pandas is a robust and flexible data analysis and manipulation library for Python, designed to make working with structured data both easy and efficient.
 
+**All datasets used in this project are included in the repository**
+
 ## Table of Contents
 
 - [Introduction](#introduction)
